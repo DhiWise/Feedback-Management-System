@@ -69,7 +69,7 @@ It is difficult to handle two platforms in a single app. As a result, this softw
 
 ### Screenshots
 
-![alt text](https://github.com/kajal1598/image_01/blob/master/Frame%203.png?raw=true)
+![alt text](https://raw.githubusercontent.com/kajal1598/image_01/master/Feedback-management.png)
 
   
   
